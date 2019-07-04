@@ -1,5 +1,8 @@
 # sort
-merge sort 
+
+merge.c:
+
+Merge Sort 
 
 This is an implementation of merge sort. Based loosely around the merge sort described in the book Data Structures Using C by Tenenbaum.
 
